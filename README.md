@@ -1,4 +1,4 @@
-- Hi, I’m @ejlongman
+- Hi, I’m Ellen
 - I am an incoming first year finance PhD student at U Michigan, formerly at the New York Federal Reserve Bank. 
 - I’m currently learning Julia 
 
