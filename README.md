@@ -1,6 +1,4 @@
-- Hi, I’m Ellen
-- I am an incoming first year finance PhD student at U Michigan, formerly at the New York Federal Reserve Bank. 
-- I’m currently learning Julia 
+- Hi, I’m Ellen. I am an incoming first year finance PhD student at Michigan, formerly at the New York Federal Reserve Bank. 
 
 <!---
 ejlongman/ejlongman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
